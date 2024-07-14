@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My web page </title>
+</head>
+
+
+<body>
+    <h1>this is my first webpage </h1>
+    <!-- this is a comment -->
+    <p>Here is a paragraph on my webpage. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam ratione,
+        pariatur omnis quo aliquam aliquid ad sed aspernatur, nam soluta distinctio iste. Facere soluta id esse quasi
+        similique quo tenetur.</p>
+</body>
+
+</html>
