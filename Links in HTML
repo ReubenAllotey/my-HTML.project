@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Links and FIles</title>
+</head>
+
+<body>
+    <h1>Links and Files</h1>
+    <h2>Here is a link to an external page .</h2>
+
+    <p>here is the link to <a href="http://google.com">google</a> website.</p>
+    <h2>Here is a link to an internal page .</h2>
+    <p>here is the link to <a href="about.html">about webpage</a></p>
+
+    <h2>link to a file inside a folder</h2>
+
+    <p>here is the link to the <a href="products/cheese.html">cheese page</a></p>
+
+    <h2>here is a link to nothing</h2>
+    <p>here is a link to a page I don't know yet<a href="#">anypage</a></p>
+
+    <h2>here is a link to a content elsewhere on the page</h2>
+    <p>Here is a link to our <a href="#"> contact section</a></p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, magnam perspiciatis ullam quod expedita
+        rem mollitia iure pariatur? In reprehenderit veniam ex ab aspernatur harum libero, aliquid totam quis veritatis?
+    </p>
+
+
+    <section id="contact us">
+        <p>Here is our contact section</p>
+
+    </section>
+</body>
+
+</html>
